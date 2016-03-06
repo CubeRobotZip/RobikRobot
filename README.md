@@ -11,10 +11,12 @@ mcu | 舵机控制、蓝牙通信 |
 picture | 图片 |
 reference | 旧版app |
 
-
 ## 项目流程
 硬件(cubieboard2双卡版)--》适配安卓4.2系统--》运行APP (主要实现色块的识别,解魔方算法)
 并利用蓝牙向stm32系列单片机开发板通信--》驱动舵机--》旋转魔方--》复原完成
+
+## 视频
+[解魔方机器人](http://player.youku.com/embed/XMTQ5MTU5NzM4OA==)
 
 ##致谢
 在此，我们特别感谢[DigDream](https://github.com/DigDream/RubiksCubeRobot)和其他一些致力于开放源代码的朋友们。
